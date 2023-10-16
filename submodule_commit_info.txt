@@ -1,0 +1,9 @@
+*************submodule information*********************
+
+*****************sdk information************************
+1cf3d1455b3baf66a9e3237365fcdfd69d821487 [feat][board] add sipeed_usb2dualuart support
+*****************gcc information************************
+riscv64-elf-gcc (GCC) 13.2.0
+Copyright (C) 2023 Free Software Foundation, Inc.
+This is free software see the source for copying conditions.  There is NO
+warranty not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
